@@ -1,2 +1,0 @@
-# Java-Weather-Station
-java
